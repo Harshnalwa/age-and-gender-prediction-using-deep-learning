@@ -1,0 +1,12 @@
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+
+data/UTKFace/
+UTKFace/
+saved_models/*.keras
+
+snapshot_*.jpg
+*_out.jpg
